@@ -1,7 +1,3 @@
-Here’s an updated README description for your Vanna AI project, now positioning it as a framework acting as a database agent integrated with SQL databases:
-
----
-
 # Vanna AI - Database Agent Framework
 
 This project is built upon **Vanna AI**, a powerful framework designed to function as an intelligent **database agent**, integrated with SQL databases. Developed during my internship with **Exquitech**, this project aimed to provide a seamless interaction between natural language queries and structured databases, making data retrieval simpler and more efficient.
@@ -25,6 +21,3 @@ Vanna AI serves as a framework that bridges the gap between human language and d
 
 This project, developed with the support of **Exquitech**, highlights the power of combining AI with traditional database systems, offering a solution that simplifies database interaction for users, while maintaining robust query performance and scalability.
 
----
-
-This description emphasizes the framework's role in bridging AI and databases while integrating SQL support. You can customize it further based on any additional specifics of the project.
